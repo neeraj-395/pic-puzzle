@@ -8,7 +8,7 @@ To run the Pic Puzzle game locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/pic-puzzle.git
+   git clone https://github.com/neeraj-395/pic-puzzle.git
    ```
 
 2. **Compile the Java Code**:
